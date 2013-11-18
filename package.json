@@ -1,6 +1,7 @@
 {
-  "name": "myapp",
+  "name": "angular-coffee-haml-skeleton",
   "version": "0.0.1",
+  "repository": "https://github.com/sziep/angular-coffee-haml-skeleton.git",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
